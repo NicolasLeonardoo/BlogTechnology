@@ -1,0 +1,20 @@
+header{
+    color: #db8102;
+    font-size: 30px;
+    text-decoration: solid;
+}
+header h2{
+    color: #db8102;
+    font-size: 30px;
+    text-decoration: solid;
+    line-height: 2.5px;
+}
+body{
+    background-color: #ddd;
+    color: #444;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.5;
+}
+p{
+    margin-right: 700px;
+}
